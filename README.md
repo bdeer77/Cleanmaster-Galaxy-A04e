@@ -12,3 +12,4 @@
 2. امنح الأذونات المطلوبة
 3. اضغط على زر التنظيف
 # Cleanmaster-Galaxy-A04e
+# Cleanmaster-Galaxy-A04e
